@@ -3,3 +3,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 
 * [Espejo García, Ignacio](https://github.com/NachoEspejo)
 * [Rebollo Benítez, Salvador](https://github.com/salvirb)
+* [Ruiz Mostazo, José Antonio](https://github.com/Joseantonioruizmostazo)
