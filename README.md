@@ -2,5 +2,7 @@
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** de la promoción 2017 - 2019
 
 * [Espejo García, Ignacio](https://github.com/NachoEspejo)
+* [García Ruiz, Cintia](https://github.com/cyntigr)
 * [Rebollo Benítez, Salvador](https://github.com/salvirb)
 * [Ruiz Mostazo, José Antonio](https://github.com/Joseantonioruizmostazo)
+
