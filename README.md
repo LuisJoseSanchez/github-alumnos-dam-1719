@@ -5,6 +5,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Espejo García, Ignacio](https://github.com/NachoEspejo)
 * [Fernández García, Jose Antonio](https://github.com/joseanfernandez)
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad)
+* [Galera García, José Ángel](https://github.com/joseangelgalera)
 * [García Ruiz, Cintia](https://github.com/cyntigr)
 * [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo)
 * [Rebollo Benítez, Salvador](https://github.com/salvirb)
