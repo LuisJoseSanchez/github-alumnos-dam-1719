@@ -3,7 +3,9 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 
 * [Amo Olsson, Christian Raúl](https://github.com/christianraulamo)
 * [Espejo García, Ignacio](https://github.com/NachoEspejo)
+* [Fernández García, Jose Antonio](https://github.com/joseanfernandez)
 * [García Ruiz, Cintia](https://github.com/cyntigr)
 * [Rebollo Benítez, Salvador](https://github.com/salvirb)
 * [Ruiz Mostazo, José Antonio](https://github.com/Joseantonioruizmostazo)
+
 
