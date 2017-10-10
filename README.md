@@ -7,5 +7,5 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [García Ruiz, Cintia](https://github.com/cyntigr)
 * [Rebollo Benítez, Salvador](https://github.com/salvirb)
 * [Ruiz Mostazo, José Antonio](https://github.com/Joseantonioruizmostazo)
-
+* [Vargas Galán, Jesús](https://github.com/jesusvargasgalan)
 
