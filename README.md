@@ -2,6 +2,7 @@
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** de la promoción 2017 - 2019
 
 * [Amo Olsson, Christian Raúl](https://github.com/christianraulamo)
+* [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt)
 * [Espejo García, Ignacio](https://github.com/NachoEspejo)
 * [Fernández García, Jose Antonio](https://github.com/joseanfernandez)
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad)
