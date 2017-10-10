@@ -13,3 +13,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Rebollo Benítez, Salvador](https://github.com/salvirb)
 * [Ruiz Mostazo, José Antonio](https://github.com/Joseantonioruizmostazo)
 * [Vargas Galán, Jesús](https://github.com/jesusvargasgalan)
+* [Villena Gil, Juan David](https://github.com/juandavidvillena)
