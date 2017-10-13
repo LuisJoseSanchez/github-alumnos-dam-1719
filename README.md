@@ -10,7 +10,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [García Fernández, Guillermo](https://github.com/GuillermoGarcia)
 * [García Ruiz, Cintia](https://github.com/cyntigr)
 * [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo)
-* [Rebollo Benítez, Salvador](https://github.com/salvirb)
+* [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo)
 * [Ruiz Mostazo, José Antonio](https://github.com/Joseantonioruizmostazo)
 * [Vargas Galán, Jesús](https://github.com/jesusvargasgalan)
 * [Villena Gil, Juan David](https://github.com/juandavidvillena)
